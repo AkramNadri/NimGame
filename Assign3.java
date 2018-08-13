@@ -1,6 +1,4 @@
-// Akram Nadri
-// Section 310
-// Proff. Rosenblum
+
 
 public class Assign3 {
 
@@ -11,7 +9,7 @@ public class Assign3 {
 		Nim get = new Nim();
 
 		System.out.println("Welcome to the NIM game\n"
-				+ "We play by the misère rules");
+				+ "We play by the misÃ¨re rules");
 
 		get.printPiles();
 
